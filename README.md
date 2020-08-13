@@ -1,5 +1,4 @@
-## Hi, I'm Nicolas Roehm [![HitCount](http://hits.dwyl.com/NicolasRoehm/NicolasRoehm.svg)](http://hits.dwyl.com/NicolasRoehm/NicolasRoehm)
-
+## Hi, I'm Nicolas Roehm <img align="right" src="http://hits.dwyl.com/NicolasRoehm/NicolasRoehm.svg">
 - I’m currently working with [nrwl/nx](https://github.com/nrwl/nx)
 
 ## Languages and Tools
