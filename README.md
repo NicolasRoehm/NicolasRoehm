@@ -1,15 +1,6 @@
-## Hi, I'm Nicolas Roehm 👋
+## Hi, I'm Nicolas Roehm [![HitCount](http://hits.dwyl.com/NicolasRoehm/NicolasRoehm.svg)](http://hits.dwyl.com/NicolasRoehm/NicolasRoehm)
 
-- 🔭 I’m currently working with [nrwl/nx](https://github.com/nrwl/nx)
-
-## Connect with me
-
-[<img align="left" alt="studio-centurio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NicolasRoehm | StackOverlfow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverlfow]
-[<img align="left" alt="NicolasRoehm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="StudioCenturio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
+- I’m currently working with [nrwl/nx](https://github.com/nrwl/nx)
 
 ## Languages and Tools
 
@@ -28,6 +19,15 @@
 <img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+
+<br />
+
+## Connect with me
+
+[<img align="left" alt="studio-centurio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="NicolasRoehm | StackOverlfow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverlfow]
+[<img align="left" alt="NicolasRoehm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="StudioCenturio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 <br />
