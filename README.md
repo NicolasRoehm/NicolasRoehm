@@ -1,4 +1,4 @@
-## Hi, I'm Nicolas Roehm <img align="right" src="http://hits.dwyl.com/NicolasRoehm/NicolasRoehm.svg">
+## Hi, I'm Nicolas Roehm <img align="right" src="https://komarev.com/ghpvc/?username=nicolasroehm&color=44cc11&style=flat-square&label=Views">
 - I’m currently working with [nrwl/nx](https://github.com/nrwl/nx)
 
 ## Languages and Tools
@@ -25,10 +25,10 @@
 
 ## Connect with me
 
-[<img align="left" alt="studio-centurio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NicolasRoehm | StackOverlfow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverlfow]
-[<img align="left" alt="NicolasRoehm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="StudioCenturio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />][website]
+[<img align="left" alt="NicolasRoehm | StackOverlfow" src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />][stackoverlfow]
+[<img align="left" alt="NicolasRoehm | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="StudioCenturio | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
 <br />
 <br />
