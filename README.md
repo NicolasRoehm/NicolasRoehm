@@ -51,4 +51,5 @@
 <br />
 
 <!--START_SECTION:activity-->
+1. 🤝 Opened PR [#18](https://github.com//antoantonyk/password-strength-meter/pull/18) in [antoantonyk/password-strength-meter](https://github.com//antoantonyk/password-strength-meter)
 <!--END_SECTION:activity-->
