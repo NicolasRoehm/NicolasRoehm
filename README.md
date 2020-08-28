@@ -25,19 +25,29 @@
 
 ## Connect with me
 
-[<img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />][website]
-[<img align="left" alt="NicolasRoehm | StackOverlfow" src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />][stackoverlfow]
-[<img align="left" alt="NicolasRoehm | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="StudioCenturio | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+<a href="https://www.studio-centurio.com" target="_blank">
+  <img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/7462178/nicolas-roehm" target="_blank">
+  <img align="left" alt="NicolasRoehm | StackOverflow" src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://fr.linkedin.com/in/nicolas-roehm-bettcher" target="_blank">
+  <img align="left" alt="NicolasRoehm | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCBLJwUROjmJPB1CIk0lPVdg" target="_blank">
+  <img align="left" alt="StudioCenturio | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 <br />
-<br />
+
+***
 
 <!-- <img align="left" alt="NicolasRoehm's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasRoehm" /> -->
 
+## Github activity
+
 <img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true" />
 
-[website]: https://www.studio-centurio.com
-[youtube]: https://www.youtube.com/channel/UCBLJwUROjmJPB1CIk0lPVdg
-[linkedin]: https://fr.linkedin.com/in/nicolas-roehm-bettcher
-[stackoverlfow]: https://stackoverflow.com/users/7462178/nicolas-roehm
+<br />
+
+<!--START_SECTION:activity-->
