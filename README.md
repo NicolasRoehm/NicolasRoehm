@@ -1,7 +1,7 @@
 ## Hi, I'm Nicolas Roehm <img align="right" src="https://komarev.com/ghpvc/?username=nicolasroehm&color=44cc11&style=flat-square&label=Views">
 - I’m currently working with [nrwl/nx](https://github.com/nrwl/nx)
 
-## Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -23,7 +23,7 @@
 
 ***
 
-## Connect with me
+### Connect with me
 
 <a href="https://www.studio-centurio.com" target="_blank">
   <img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />
@@ -44,7 +44,7 @@
 
 <!-- <img align="left" alt="NicolasRoehm's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasRoehm" /> -->
 
-## Github activity
+### Github activity
 
 <img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true" />
 
