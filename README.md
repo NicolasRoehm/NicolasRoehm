@@ -50,4 +50,5 @@
 
 <br />
 
-<!--START_SECTION:activity-->
+<!--GITHUB-ACTIVITY:START-->
+<!--GITHUB-ACTIVITY:END-->
