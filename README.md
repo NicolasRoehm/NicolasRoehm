@@ -1,5 +1,11 @@
 ## Hi, I'm Nicolas Roehm <img align="right" src="https://komarev.com/ghpvc/?username=nicolasroehm&color=44cc11&style=flat-square&label=Views">
-- I’m currently working with [nrwl/nx](https://github.com/nrwl/nx)
+
+I work as a software engineer at Caliatys - Air Liquide Group in Strasbourg, France. I enjoy sports and working on side projects in my spare time!
+
+#### I'm currently working with
+
+<a href="https://github.com/nrwl/nx"><img align="left" alt="Nrwl Nx" src="https://github-readme-stats.vercel.app/api/pin/?username=nrwl&repo=nx&show_owner=true" /></a>
+<a href="https://github.com/portainer/portainer"><img alt="Portainer" src="https://github-readme-stats.vercel.app/api/pin/?username=portainer&repo=portainer&show_owner=true" /></a>
 
 ### Languages and Tools
 
@@ -23,7 +29,7 @@
 
 ***
 
-### Connect with me
+### Networks
 
 <a href="https://www.studio-centurio.com" target="_blank">
   <img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />
@@ -44,7 +50,7 @@
 
 <!-- <img align="left" alt="NicolasRoehm's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasRoehm" /> -->
 
-### Github activity
+### Github activities
 
 <img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true" />
 
