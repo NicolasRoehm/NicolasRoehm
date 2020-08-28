@@ -13,8 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: NicolasRoehm/NicolasRoehm@master
-        with:
-          comment_tag_name: GITHUB-ACTIVITY 
+      - uses: NicolasRoehm/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
