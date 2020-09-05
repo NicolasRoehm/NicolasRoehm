@@ -58,4 +58,5 @@ I work as a software engineer at Caliatys - Air Liquide Group in Strasbourg, Fra
 
 <!--START_SECTION:activity-->
 1. 🤝 Opened PR [#5](https://github.com//zuramai/voler/pull/5) in [zuramai/voler](https://github.com//zuramai/voler)
+2. 🤝 Opened PR [#18](https://github.com//antoantonyk/password-strength-meter/pull/18) in [antoantonyk/password-strength-meter](https://github.com//antoantonyk/password-strength-meter)
 <!--END_SECTION:activity-->
