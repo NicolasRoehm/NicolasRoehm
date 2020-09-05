@@ -52,7 +52,7 @@ I work as a software engineer at Caliatys - Air Liquide Group in Strasbourg, Fra
 
 ### Github activities
 
-<img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true&hide_title=true" width="400px" />
+<img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true&hide_title=true" width="400px" height="160px" />
 
 <br />
 
