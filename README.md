@@ -57,8 +57,8 @@ I work as a software engineer at Caliatys - Air Liquide Group in Strasbourg, Fra
 <br />
 
 <!--START_SECTION:activity-->
-1. 🤝 Opened PR [#5](https://github.com/zuramai/voler/pull/5) in [zuramai/voler](https://github.com/zuramai/voler)
-2. 🤝 Opened PR [#18](https://github.com/antoantonyk/password-strength-meter/pull/18) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+1. 🤝 Opened PR [#18](https://github.com/antoantonyk/password-strength-meter/pull/18) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+2. ✔️ Merged PR [#5](https://github.com/zuramai/voler/pull/5) in [zuramai/voler](https://github.com/zuramai/voler)
 3. ✔️ Merged PR [#1](https://github.com/kegi/flash-message/pull/1) in [kegi/flash-message](https://github.com/kegi/flash-message)
 4. ✔️ Merged PR [#69](https://github.com/artgris/FileManagerBundle/pull/69) in [artgris/FileManagerBundle](https://github.com/artgris/FileManagerBundle)
 5. ✔️ Merged PR [#3677](https://github.com/summernote/summernote/pull/3677) in [summernote/summernote](https://github.com/summernote/summernote)
