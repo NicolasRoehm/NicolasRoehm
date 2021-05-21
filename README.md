@@ -57,7 +57,7 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 <br />
 
 <!--START_SECTION:activity-->
-1. 🤝 Opened PR [#18](https://github.com/antoantonyk/password-strength-meter/pull/18) in [antoantonyk/password-strength-meter](https://github.com/antoantonyk/password-strength-meter)
+1. ✔️ Merged PR [#1](https://github.com/phaserjs/dev/pull/4) in [phaserjs/dev](https://github.com/phaserjs/dev)
 2. ✔️ Merged PR [#5](https://github.com/zuramai/voler/pull/5) in [zuramai/voler](https://github.com/zuramai/voler)
 3. ✔️ Merged PR [#1](https://github.com/kegi/flash-message/pull/1) in [kegi/flash-message](https://github.com/kegi/flash-message)
 4. ✔️ Merged PR [#69](https://github.com/artgris/FileManagerBundle/pull/69) in [artgris/FileManagerBundle](https://github.com/artgris/FileManagerBundle)
