@@ -35,13 +35,16 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
   <img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/7462178/nicolas-roehm" target="_blank">
-  <img align="left" alt="NicolasRoehm | StackOverflow" src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img align="left" alt="Nicolas Roehm | StackOverflow" src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
 <a href="https://fr.linkedin.com/in/nicolas-roehm-bettcher" target="_blank">
-  <img align="left" alt="NicolasRoehm | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Nicolas Roehm | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UCBLJwUROjmJPB1CIk0lPVdg" target="_blank">
-  <img align="left" alt="StudioCenturio | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  <img align="left" alt="Studio Centurio | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.artstation.com/nicolas-roehm" target="_blank">
+  <img align="left" alt="Nicolas Roehm | ArtStation" src="https://img.shields.io/badge/artstation-%23171717.svg?&style=for-the-badge&logo=artstation&logoColor=white" />
 </a>
 
 <br />
