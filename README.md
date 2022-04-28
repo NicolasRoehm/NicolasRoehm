@@ -55,14 +55,15 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 
 ### Github activities
 
+<table>
+<tr>
+  <td align="center">
 <img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true&hide_title=true" width="400px" height="160px" />
-
-<br />
-
-<!--START_SECTION:activity-->
-1. ✔️ Merged PR [#4](https://github.com/phaserjs/dev/pull/4) in [phaserjs/dev](https://github.com/phaserjs/dev)
-2. ✔️ Merged PR [#5](https://github.com/zuramai/voler/pull/5) in [zuramai/voler](https://github.com/zuramai/voler)
-3. ✔️ Merged PR [#1](https://github.com/kegi/flash-message/pull/1) in [kegi/flash-message](https://github.com/kegi/flash-message)
-4. ✔️ Merged PR [#69](https://github.com/artgris/FileManagerBundle/pull/69) in [artgris/FileManagerBundle](https://github.com/artgris/FileManagerBundle)
-5. ✔️ Merged PR [#3677](https://github.com/summernote/summernote/pull/3677) in [summernote/summernote](https://github.com/summernote/summernote)
-<!--END_SECTION:activity-->
+    <img width="900" height="1" alt="">
+  </td>
+  <td align="center">
+    <img alt="" width="400" src="./github-metrics.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
+</table>
