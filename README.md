@@ -58,11 +58,11 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 <table>
 <tr>
   <td align="center">
-<img align="left" alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true&hide_title=true" width="400px" height="160px" />
+<img alt="NicolasRoehm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolasRoehm&show_icons=true&hide_border=true&hide_title=true" width="400" />
     <img width="900" height="1" alt="">
   </td>
   <td align="center">
-    <img alt="" width="400" src="./github-metrics.svg" alt=""></img>
+    <img alt="" width="400" src="./github-metrics.svg" alt="NicolasRoehm's Github Activity"></img>
     <img width="900" height="1" alt="">
   </td>
 </tr>
