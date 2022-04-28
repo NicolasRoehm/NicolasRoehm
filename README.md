@@ -4,8 +4,8 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 
 #### I'm currently working with
 
-<a href="https://github.com/nrwl/nx"><img align="left" alt="Nrwl Nx" src="https://github-readme-stats.vercel.app/api/pin/?username=nrwl&repo=nx&show_owner=true" /></a>
-<a href="https://github.com/portainer/portainer"><img alt="Portainer" src="https://github-readme-stats.vercel.app/api/pin/?username=portainer&repo=portainer&show_owner=true" /></a>
+<a href="https://github.com/ElrondNetwork/elrond-wasm-rs"><img align="left" alt="ElrondNetwork Rust smart contract library" src="https://github-readme-stats.vercel.app/api/pin/?username=ElrondNetwork&repo=elrond-wasm-rs&show_owner=true" /></a>
+<a href="https://github.com/nuxt/framework"><img alt="Nuxt 3" src="https://github-readme-stats.vercel.app/api/pin/?username=nuxt&repo=framework&show_owner=true" /></a>
 
 ### Languages and Tools
 
@@ -18,8 +18,10 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="VueJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
