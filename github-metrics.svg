@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="215" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="127" class="">
     <defs>
         <style/>
     </defs>
@@ -35,29 +35,6 @@ About environment variables, I see a lot of NextJs plugins uses their own
                                         in a dedicated config file instead of the
                                         <code>next.config.js</code>
                                         . I don't know if it can help 😅
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#42 img tag is not inside exported html</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by NicolasRoehm in <span class="repo">Niels-IO/next-image-export-optimizer</span></div>
-                                    <div class="comment">
-                                        Hi @Niels-IO,
-I've been playing with React &amp; Next for only 2 weeks, so I'm not able to help much here.
-Do you think something like this might help bypass the
-                                        <code>ssr:false</code>
-                                        https://github.com/vercel/next.js/discussions/35773#discussioncomment-3441844 ?
                                     </div>
                                 </div>
                             </section>
