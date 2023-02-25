@@ -5,7 +5,7 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 #### I'm currently working with
 
 <a href="https://github.com/ElrondNetwork/elrond-wasm-rs"><img align="left" alt="ElrondNetwork Rust smart contract library" src="https://github-readme-stats.vercel.app/api/pin/?username=ElrondNetwork&repo=elrond-wasm-rs&show_owner=true" /></a>
-<a href="https://github.com/nuxt/framework"><img alt="Nuxt 3" src="https://github-readme-stats.vercel.app/api/pin/?username=nuxt&repo=framework&show_owner=true" /></a>
+<a href="https://github.com/nuxt/nuxt"><img alt="Nuxt" src="https://github-readme-stats.vercel.app/api/pin/?username=nuxt&repo=nuxt&show_owner=true" /></a>
 
 ### Languages and Tools
 
