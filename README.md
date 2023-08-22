@@ -35,8 +35,8 @@ I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, Fran
 
 ### Networks
 
-<a href="https://www.studio-centurio.com" target="_blank">
-  <img align="left" alt="studio-centurio.com" src="https://img.shields.io/badge/Centurio-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />
+<a href="https://www.frenchstack.com" target="_blank">
+  <img align="left" alt="frenchstack.com" src="https://img.shields.io/badge/FrenchStack-%23007EFF.svg?&style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/7462178/nicolas-roehm" target="_blank">
   <img align="left" alt="Nicolas Roehm | StackOverflow" src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
