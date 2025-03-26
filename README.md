@@ -1,6 +1,6 @@
 ## Hi, I'm Nicolas Roehm <img align="right" src="https://komarev.com/ghpvc/?username=nicolasroehm&color=44cc11&style=flat-square&label=Views">
 
-I work as a software engineer at Alizent - Air Liquide Group in Strasbourg, France. I enjoy sports and working on side projects in my spare time!
+I work as a software engineer at Air Liquide - Industrial application - in Strasbourg, France. I enjoy sports and working on side projects in my spare time!
 
 #### I'm currently working with
 
